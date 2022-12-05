@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intento2</string>}
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_numero">Numero:</string>
+    <string name="hint_region">Region:</string>
+    <string name="btn_guarda">Guardar registro</string>
+</resources>
